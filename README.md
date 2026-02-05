@@ -1,0 +1,1 @@
+A clear, concise demonstration of Process Synchronization using Binary and Counting Semaphores. This project explores how threads can be managed to prevent race conditions and control resource access.
